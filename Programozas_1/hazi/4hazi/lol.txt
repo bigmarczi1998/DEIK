@@ -1,3 +1,0 @@
-Vektor:[4 1 7 6 1 9 1 5 3 6]
-A legtobbet szereplo szam: 1
-Elofordulasok szama: 3
